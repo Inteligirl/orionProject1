@@ -1,4 +1,4 @@
-# Project 1 C#
+# Project 1 (C#)
 
 ## Project 1 Description:
 Orion is one of the most famous constellations in the night sky.  In this module, you will find an image named Orion.bmp which contains a diagram of the Orion constellation.  Create a C# application that displays the Orion image in a PictureBox control.  The application should have a button that when clicked, displays the names of each of the stars.  The application should have another button that when clicked, hides the star names.  The names of the stars are Betelgeuse, Meissa, Alnitak, Alnilam, Mintaka, Saiph, and Rigel.
